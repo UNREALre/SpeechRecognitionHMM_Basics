@@ -1,0 +1,2 @@
+hmmlearn
+python_speech_features
